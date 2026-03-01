@@ -1,1 +1,1 @@
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6421928" style='border:none;'></iframe>
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/6421928.png)](https://tryhackme.com/p/Zigzag)
